@@ -1,0 +1,27 @@
+#Section 1
+
+# Fundamenal Data Types 
+int 
+float 
+bool 
+str  # for string
+list 
+tuple
+set 
+dict 
+
+#Classes -> custom types  "data types created by us"
+
+
+#Specialized Data Types  "when we do not want to use the existing data types we can 
+                     # use data types from modules as extensions that we can add to the language
+    
+    
+#None   - Absence of a value, Nothing!
+
+
+#Section 2
+#Numbers
+
+print(2+4)
+
